@@ -1,4 +1,4 @@
 ## PHP Tip
 - Use `isset()` to check if a variable is set.  
 
-**Quote of the Day:** "Cleaning code does NOT take time. NOT cleaning code does take time." — *Bill Gates*  
+**Quote of the Day:** "Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts." — *Chris Sacca*  
