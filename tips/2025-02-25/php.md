@@ -1,4 +1,4 @@
 ## PHP Tip
 - Use `isset()` to check if a variable is set.  
 
-**Quote of the Day:** "The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures." — *Fred Brooks*  
+**Quote of the Day:** "C++ certainly has its good points. But by and large I think it's a bad language. It does a lot of things half well and it’s just a garbage heap of ideas that are mutually exclusive. It’s way too big, way too complex. And it’s obviously built by a committee." — *Gottfried Wilhelm Leibniz*  
