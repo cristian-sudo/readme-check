@@ -1,4 +1,4 @@
 ## PHP Tip
 - Use `isset()` to check if a variable is set.  
 
-**Quote of the Day:** "The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer." — *Fred Brooks*  
+**Quote of the Day:** "What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form." — *William Wulf*  
