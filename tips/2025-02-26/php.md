@@ -1,4 +1,4 @@
 ## PHP Tip
 - Use `isset()` to check if a variable is set.  
 
-**Quote of the Day:** "What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form." — *William Wulf*  
+**Quote of the Day:** "The best minds of my generation are thinking about how to make people click ads." — *Alan Turing*  
